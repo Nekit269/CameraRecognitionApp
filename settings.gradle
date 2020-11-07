@@ -1,0 +1,2 @@
+rootProject.name='CameraRecognition'
+include ':app'
